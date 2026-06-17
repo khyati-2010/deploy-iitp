@@ -3,6 +3,7 @@
   --secondary: #365c59;
 
   --background: #ffffff;
+  --background-2: #edf2f7;
   --surface: #94b3d4;
 
   --text-primary: #0f172a;
@@ -11,7 +12,9 @@
 
   --accent: #2563eb;
 
-  --border-color: #0f172a;
+  --border-color-dark: #0f172a;
+  --border-color-light: #f2e7e7;
+
 
   --space-xs: 4px;
   --space-s: 8px;
