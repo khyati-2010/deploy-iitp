@@ -460,6 +460,15 @@ section {
     line-height: 1.6;
 }
 
+/* Teaching */
+
+.teaching{
+    padding: var(--space-4xl) 0;
+    display: grid;
+    
+}
+
+
 /* Media Queries */
 
 @media (max-width: 768px) {

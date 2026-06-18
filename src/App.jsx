@@ -4,13 +4,14 @@ import About from "./components/About";
 import Research from "./components/Research";
 import Publications from "./components/Publications";
 import Recognitions from "./components/Recognitions";
+import Teaching from "./components/Teaching";
 // import Contact from "./components/Contact";
 // import ScrollProgress from "./components/ScrollProgress";
 
 function App() {
   return (
     <>
-        {/* <ScrollProgress />  */}
+      {/* <ScrollProgress />  */}
       <Navbar />
 
       <Hero />
@@ -18,6 +19,7 @@ function App() {
       <Research />
       <Publications />
       <Recognitions />
+      <Teaching />
       {/* <Contact /> */}
     </>
   );
