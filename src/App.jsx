@@ -5,7 +5,7 @@ import Research from "./components/Research";
 import Publications from "./components/Publications";
 import Recognitions from "./components/Recognitions";
 import Teaching from "./components/Teaching";
-// import Contact from "./components/Contact";
+import Contact from "./components/Contact";
 // import ScrollProgress from "./components/ScrollProgress";
 
 function App() {
@@ -20,7 +20,7 @@ function App() {
       <Publications />
       <Recognitions />
       <Teaching />
-      {/* <Contact /> */}
+      <Contact />
     </>
   );
 }

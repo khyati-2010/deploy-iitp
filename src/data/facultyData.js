@@ -8,11 +8,12 @@ export const faculty = {
     email: "koushik@iitp.ac.in",
     phone: "+91 6115233197",
     office: "",
-    websites: {
-      personal: "https://www.koushikroy.com/",
-      scholar: "",
-      linkedin: "",
-    }
+    websites:[
+      {
+        label: "Website",
+        url: "https://www.koushikroy.co.in/",
+      },
+    ]
   },
 
   researchAreas: [

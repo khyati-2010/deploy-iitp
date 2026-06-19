@@ -2,7 +2,7 @@ import { faculty } from "../data/facultyData";
 
 function Teaching() {
     return (
-        <section className="teaching">
+        <section className="teaching" id="teaching">
             <h2>Teaching</h2>
             <div className="teaching-grid">
                 <div className="undergrad">
